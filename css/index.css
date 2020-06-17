@@ -2403,7 +2403,7 @@ blockquote footer cite:before {
   color: #eee;
 }
 #page-header a:hover {
-  color: #fff;
+  color: $black;
 }
 #page-header.fixed {
   position: fixed;
@@ -2442,7 +2442,7 @@ blockquote footer cite:before {
   transform: translate3d(0, 100%, 0);
 }
 #page-header.visible .menus_item_child {
-  background-color: #fff !important;
+  background-color: $black !important;
 }
 #page-header #site-name {
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
